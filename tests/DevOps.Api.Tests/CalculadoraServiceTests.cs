@@ -14,7 +14,7 @@ public class CalculadoraServiceTests
         var resultado = calculadora.Somar(2, 3);
 
         // Assert
-        Assert.Equal(5, resultado);
+        Assert.Equal(99, resultado);
     }
 
     [Theory]
